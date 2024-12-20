@@ -33,4 +33,4 @@ Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar),
  - ## 📫 Como me contactar
 
 - **E-mail**: [dedeee.dev@gmail.com]
-- **Twitter**: [@Dedde076](https://x.com/@Dedde076])
+- **Twitter**: [@Dedde076](https://x.com/@Dedde076)
