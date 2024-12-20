@@ -8,7 +8,7 @@ Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar),
 
 ## 💻 Sobre Mim
 
-- **Nome**: [André]
+- **Nome**: [Dede]
 - **Localização**: [Portugal]
 - **Linguagens que estou a aprender**: Python, JavaScript, HTML/C++ e blueprint.
 - **Minhas paixões**: [exemplo: Desenvolvimento Web, front-end e back-end.]
