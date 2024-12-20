@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar),
 - **Nome**: [Dede]
 - **Localização**: [Portugal]
 - **Linguagens que estou a aprender**: Python, JavaScript, HTML/C++ e blueprint.
-- **Minhas paixões**: [exemplo: Desenvolvimento Web, front-end e back-end.]
+- **Minhas paixões**: [Desenvolvimento Web, front-end e back-end.]
 - **Objetivo**: Contribuir para projetos de código aberto e melhorar as minhas skills todos os dias! 🌱
 - - **Identidade**: Furry 🦊 e **bissexual** 🏳️‍🌈. Orgulho de ser quem sou! 💖
 
