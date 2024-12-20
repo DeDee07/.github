@@ -32,6 +32,5 @@ Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar),
  
  - ## 📫 Como me contactar
 
-- **E-mail**: []
-- **LinkedIn**: [teu-linkedin](https://www.linkedin.com/in/[teu-linkedin])
-- **Twitter**: [@teu-twitter](https://twitter.com/[teu-twitter])
+- **E-mail**: [dedeee.dev@gmail.com]
+- **Twitter**: [@Dedde076](https://x.com/Dedde076])
